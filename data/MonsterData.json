@@ -1,1 +1,13 @@
-
+[
+    {
+    "monsterTest":
+    {   "name":"Peater",
+        "class":"Plant (Nerd)",
+        "islands":[1],
+        "costCurrency":"coins",
+        "price":"43",
+        "sellPrice":"36"   ,
+        "anim":"monsterTest"  
+    }   
+    }
+]
